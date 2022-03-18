@@ -10,6 +10,7 @@
 My Projects 
 
 **tshirt store eCommerce app**
+
    Full Stack *eCommerce* app tshirt store built using MERN stack and deployed on Heroku. Payment integration using paypal by Braintree libraries for payment. Mongodb atlas used as database.React at frontend Nodejs at backend and authentication using passportjwt token based authentication.
 
 **User Profile Management System using NodeJS and ExpressJS**
