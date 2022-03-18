@@ -3,7 +3,8 @@
 ---
 
 	A Fullstack Web Developer specialising in MERN stack.I have developed projects in MERN stack
-	 as well as Android applications using Android Studio in Java using Firebase at backend.Tshirt store eCommerce app is my latest project deployed on heroku. I am interested in Devops and Cloud Services.
+	 as well as Android applications using Android Studio in Java using Firebase at backend.
+	 Tshirt store eCommerce app is my latest project deployed on heroku. I am interested in Devops and Cloud Services.
 	
 ----
 My Projects 
